@@ -1,6 +1,17 @@
 import React from 'react';
 
+import AboutPage from './pages/AboutPage.js';
+import ContactPage from './pages/ContactPage.js';
+import HomePage from './pages/HomePage.js';
+import MyWorkPage from './pages/MyWorkPage.js';
 
 export default function App() {
-	return <h1>Hello, world!</h1>;
+	return (
+		<div>
+			<HomePage />
+			<AboutPage />
+			<MyWorkPage />
+			<ContactPage />
+		</div>
+	);
 };
