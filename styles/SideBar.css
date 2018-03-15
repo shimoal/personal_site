@@ -1,0 +1,16 @@
+.SideBar {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #1a1a1a;
+		padding: 20px;
+		min-width: 150px;
+}
+
+.SideBar p {
+   color: #dedede;
+  text-align: center;
+  padding: 25%;
+}

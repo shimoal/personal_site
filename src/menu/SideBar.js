@@ -1,6 +1,7 @@
 import React from 'react';
 
 import MenuItem from './MenuItem.js';
+import style from '../../styles/SideBar.css';
 
 export default class SideBar extends React.Component {
 	constructor(props){
@@ -30,7 +31,7 @@ export default class SideBar extends React.Component {
 			}];
 
 		return (
-			<div>
+			<div className="SideBar">
 				{menuItems.map(item => <MenuItem 
 					key={item} 
 					name={item.name} 
