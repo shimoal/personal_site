@@ -32,11 +32,7 @@ export default class SideBar extends React.Component {
 
 		return (
 			<div className="SideBar">
-				{menuItems.map(item => <MenuItem 
-					key={item} 
-					name={item.name} 
-					id={item.id} 
-				/>)}
+				{menuItems.map(({id, name})=> <MenuItem key={id} name={name} id={id} />)}
 		</div>
 		);
 	}
