@@ -1,0 +1,16 @@
+.content {
+	color: #1a1a1a;
+	margin-left: 180px;
+}
+
+.content h1 {
+	font-size: 72px;
+}
+
+.content h2 {
+	font-size: 66px;
+}
+
+.content p, li {
+	font-size: 48px;
+}
