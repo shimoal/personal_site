@@ -5,11 +5,9 @@ export default function MyWorkPage() {
 		<div id="work">
 			<h1>My Work</h1>
 
-			<p>Here are some examples of my work:</p>
+			<p>You can find an example of my past work at:</p>
 			<ul>
-				<li>example 1</li>
-				<li>example 2</li>
-				<li>example 3</li>
+				<li>https://hackeroos.herokuapp.com</li>
 			</ul>
 			<p>More coming soon!</p>
 		</div>
