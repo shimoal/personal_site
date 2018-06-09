@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import backgroundPhoto from '../public/field.jpg';
+import backgroundPhoto from './images/field.jpg';
 import './App.css';
 
 class App extends Component {
