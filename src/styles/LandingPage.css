@@ -1,0 +1,11 @@
+.LandingPage-section {
+  align-content: space-evenly;
+  background-image: url(./../images/field.jpg);
+  color: black;
+  display: grid;
+  height: 100%;
+}
+
+.LandingPage-text {
+  font-size: 1.5em;
+}
