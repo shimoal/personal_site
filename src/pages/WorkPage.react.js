@@ -4,7 +4,7 @@ import './../styles/WorkPage.css';
 const WorkPage = () => {
   return (
     <div className="WorkPage-section">
-      <h1>Past Work</h1>
+      <h1 className="WorkPage-title">Past Work</h1>
       <div className="WorkPage-portfolio">
         <p>
           Coming soon...
