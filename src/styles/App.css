@@ -4,9 +4,11 @@
 }
 
 .App-header {
+  align-content: space-evenly;
   background-image: url(./../images/field.jpg);
-  height: 100%;
   color: black;
+  display: grid;
+  height: 100%;
 }
 
 .App-title {
