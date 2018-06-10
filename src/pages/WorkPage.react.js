@@ -6,7 +6,7 @@ const WorkPage = () => {
     <div className="WorkPage-section">
       <h1 className="WorkPage-title">Past Work</h1>
       <div className="WorkPage-portfolio">
-        <p>
+        <p className="WorkPage-placeholderText">
           Coming soon...
       </p>
       </div>
