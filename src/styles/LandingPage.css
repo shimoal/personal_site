@@ -6,6 +6,10 @@
   height: 100%;
 }
 
-.LandingPage-text {
-  font-size: 1.5em;
+.LandingPage-title {
+  font-size: 3em;
+}
+
+.LandingPage-subtitle {
+  font-size: 2em;
 }

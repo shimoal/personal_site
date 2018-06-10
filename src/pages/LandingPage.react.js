@@ -4,7 +4,10 @@ import './../styles/LandingPage.css';
 const LandingPage = () => {
   return (
       <header className="LandingPage-section">
-        <h1 className="LandingPage-text">Welcome to my page</h1>
+        <div>
+          <h1 className="LandingPage-title">Alison Reed</h1>
+          <h2 className="LandingPage-subtitle">Developer</h2>
+        </div>
       </header>
     );
 }
