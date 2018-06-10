@@ -1,0 +1,11 @@
+.ContactPage-section {
+  background-color: #9E838C;
+  display: grid;
+  align-content: center;
+  height: 100%;
+}
+
+.ContactPage-text {
+  color: #eee;
+  font-size: 1.5em;
+}
